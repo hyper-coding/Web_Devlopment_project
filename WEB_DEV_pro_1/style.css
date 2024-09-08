@@ -1,0 +1,15 @@
+/* Custom Styles */
+.hero {
+    background-image: url('hero_back.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 30vh;
+    color: white;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
